@@ -1,0 +1,39 @@
+Frequently Asked Questions - TechCorp Solutions
+
+Q: What services does TechCorp Solutions offer?
+A: TechCorp Solutions provides comprehensive IT services including cloud computing, cybersecurity, software development, and IT consulting. We specialize in helping businesses modernize their technology infrastructure.
+
+Q: How can I contact customer support?
+A: Our customer support team is available 24/7 through multiple channels:
+- Phone: 1-800-TECH-HELP
+- Email: support@techcorp.com
+- Live Chat: Available on our website
+- Support Portal: support.techcorp.com
+
+Q: What are your business hours?
+A: Our main office is open Monday through Friday, 9:00 AM to 6:00 PM EST. However, our technical support team operates 24/7 to ensure continuous service availability.
+
+Q: Do you offer remote services?
+A: Yes, we provide remote services for all our offerings. Our team is equipped with secure remote access tools to assist clients from anywhere in the world.
+
+Q: What is your pricing structure?
+A: Our pricing is based on a tiered structure:
+- Basic: $99/month
+- Professional: $299/month
+- Enterprise: Custom pricing
+
+Q: Do you offer training for your services?
+A: Yes, we provide comprehensive training programs for all our services. Training can be conducted on-site or virtually, depending on your preference.
+
+Q: What security measures do you implement?
+A: We implement industry-standard security measures including:
+- End-to-end encryption
+- Multi-factor authentication
+- Regular security audits
+- Compliance with GDPR and HIPAA standards
+
+Q: How long does it take to implement your services?
+A: Implementation time varies based on the service and scope:
+- Basic setup: 1-2 weeks
+- Full implementation: 4-8 weeks
+- Enterprise solutions: 2-3 months 
